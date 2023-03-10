@@ -1,3 +1,3 @@
 # Sudoku
 
-## iOS app written with Expo, React, Typescript
+### iOS app written with Expo, React, Typescript
